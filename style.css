@@ -1,6 +1,6 @@
 body {
     font-family: "Quicksand", sans-serif;
-    background-image: url('m.png');
+    background-image: url('./m.png');
     background-size: cover;
     color: white;
 }
@@ -14,6 +14,6 @@ body {
 
 h1, h2, h3 {
     display: flex;
-justify-content: center;
-align-items: center;
+    justify-content: center;
+    align-items: center;
 }
